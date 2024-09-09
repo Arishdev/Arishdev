@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arishdev
-- 👀 I’m interested in web development
+- 👀 I’m interested in web developmen, game development too 
 - 🌱 I’m currently learning html and css (and python too for fun)
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me discord- realarish or real_arish
